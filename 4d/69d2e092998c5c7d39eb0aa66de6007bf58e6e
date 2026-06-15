@@ -1,0 +1,21 @@
+pp_functions.py
+  s_bd808a8d6084cf::t_4844616bba1ef5 13
+process_single_blocco.py
+  s_bd808a8d6084cf::t_4844616bba1ef5 19-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "4d69d2e092998c5c7d39eb0aa66de6007bf58e6e",
+  "prompts": {},
+  "sessions": {
+    "s_bd808a8d6084cf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ecb38-720c-7692-aff1-7d1ca247dd94",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    }
+  }
+}
