@@ -1,0 +1,19 @@
+main.py
+  s_bd808a8d6084cf::t_89bb0feef6223c 25,42-44,67-69,110-112,132-135,138-140,148,152,154-155,158,173-179,181,196-201,217,219,221-222,225,235-236,239,241-244,247-249,251,254,257,262,265-266,268,274,277,286,288,300,326,332-334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "c303f14a13b09ef146ae865d88cd816d8b1d243f",
+  "prompts": {},
+  "sessions": {
+    "s_bd808a8d6084cf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ecb38-720c-7692-aff1-7d1ca247dd94",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    }
+  }
+}
