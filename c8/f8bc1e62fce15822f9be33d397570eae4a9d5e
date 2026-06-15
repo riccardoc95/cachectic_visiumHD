@@ -1,0 +1,20 @@
+REPO_AUDIT.md
+  s_bd808a8d6084cf::t_5d7c6c4b5f4381 34,37,46-49,98
+  s_bd808a8d6084cf::t_8bdf008c27e0cf 1-33,35-36,38-45,50-97,99-335
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "c8f8bc1e62fce15822f9be33d397570eae4a9d5e",
+  "prompts": {},
+  "sessions": {
+    "s_bd808a8d6084cf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ecb38-720c-7692-aff1-7d1ca247dd94",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    }
+  }
+}
