@@ -1,0 +1,35 @@
+src/tiff/polygons/__init__.py
+  s_ed23372987f80d::t_5a35b41cb6d4c5 1-4
+src/tiff/polygons/polygons.py
+  s_ed23372987f80d::t_5a35b41cb6d4c5 1-39
+src/tiff/polygons/utils.py
+  s_ed23372987f80d::t_5a35b41cb6d4c5 1-17
+src/geojson/__init__.py
+  s_ed23372987f80d::t_0b693833baa1e5 1
+src/tiff/polygons/__main__.py
+  s_ed23372987f80d::t_5a35b41cb6d4c5 1-28
+src/geojson/splice/utils.py
+  s_ed23372987f80d::t_f686ba8f867300 1-11
+src/geojson/splice/merge.py
+  s_ed23372987f80d::t_0cf9b480a51280 1-36
+src/geojson/splice/__main__.py
+  s_ed23372987f80d::t_5ae2d8aaaadd60 4,10,17,20-23
+src/geojson/splice/__init__.py
+  s_ed23372987f80d::t_c828b965ff4e1d 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6c942f3c1b1cd8807a9dadf2a76c633caebadc70",
+  "prompts": {},
+  "sessions": {
+    "s_ed23372987f80d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ed448-001b-7331-bf74-03d3c4313161",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    }
+  }
+}
