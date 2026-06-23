@@ -1,0 +1,48 @@
+src/alignment/classic_similarity.py
+  s_ed23372987f80d::t_ddbecdb57219b4 186-196,199-209,229,241
+  s_ed23372987f80d::t_a01312af6906ed 1-185,197-198,210-228,230-240,242-254,256-260,262-310
+  s_ed23372987f80d::t_22b54cb2dc0b4b 255,261
+src/alignment/__init__.py
+  s_ed23372987f80d::t_c2f2df6f0e77db 1,3
+  s_ed23372987f80d::t_ecf619ebb4097a 2
+src/tiff/segmentation/__main__.py
+  s_5db92536e6d812::t_fba334662443b9 1-16,19-22,24-45,48-55
+  s_d55363c50d6d98::t_ed053500e1eac5 47,56
+src/tiff/segmentation/cellpose.py
+  s_d55363c50d6d98::t_eb44c501aae7b1 5,14-20
+  s_5db92536e6d812::t_2eaa3c763e4c3e 10
+  s_d55363c50d6d98::t_ee9cbbfc93e144 13
+  s_5db92536e6d812::t_9a934860e0a8c6 1-4,6-8,11-12,21-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "3239dc93af32df0d15024dde2ca82c8d78af0682",
+  "prompts": {},
+  "sessions": {
+    "s_5db92536e6d812": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019edaee-52b0-76d2-b4f3-4712910bd505",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    },
+    "s_d55363c50d6d98": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef3d1-824a-7221-b6fd-cfa9e0081edc",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    },
+    "s_ed23372987f80d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ed448-001b-7331-bf74-03d3c4313161",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    }
+  }
+}
