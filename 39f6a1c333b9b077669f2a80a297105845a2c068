@@ -1,0 +1,59 @@
+src/background/README.md
+  s_ddeb219413f271::t_d5ba091e6ff464 1-17
+src/background/__main__.py
+  s_ddeb219413f271::t_03db5f3b7e7a20 1-28
+src/polygons/README.md
+  s_ddeb219413f271::t_01429349f91a60 1-17
+src/polygons/__main__.py
+  s_ddeb219413f271::t_ff43183f6a75ab 1-28
+src/segmentation/README.md
+  s_ddeb219413f271::t_f4e485abf6b440 1-20
+src/segmentation/__main__.py
+  s_ddeb219413f271::t_af1e122b87dce5 1-102
+src/segmentation_simple/README.md
+  s_ddeb219413f271::t_cad3df5a68bddf 1-19
+src/segmentation_simple/__main__.py
+  s_ddeb219413f271::t_b9e15626122a9a 1-56
+src/spatial_data/merge/README.md
+  s_ddeb219413f271::t_ce29b40fc9b698 1-18
+src/spatial_data/merge/__main__.py
+  s_ddeb219413f271::t_2ba3f4bd3463b6 1-31
+src/spatial_data/qc/README.md
+  s_ddeb219413f271::t_725c28b7665c7a 1-27
+src/spatial_data/qc/__main__.py
+  s_ddeb219413f271::t_8940a5f1842b4a 1-84
+src/utils/README.md
+  s_ddeb219413f271::t_94040530ad88f7 1-32
+src/utils/__main__.py
+  s_ddeb219413f271::t_0f06906e4cde4d 1-47
+src/utils/geojson/README.md
+  s_ddeb219413f271::t_62ca362c07cb25 1-18
+src/utils/geojson/__main__.py
+  s_ddeb219413f271::t_aa5a1b2b342f29 1-23
+src/utils/geojson/merge.py
+  s_ddeb219413f271::t_92d110066337e6 1-38
+src/utils/tiff/README.md
+  s_ddeb219413f271::t_cca8cbae9f7892 1-25
+src/utils/tiff/__main__.py
+  s_ddeb219413f271::t_559761ef7dbb46 1-40
+src/utils/tiff/merge.py
+  s_ddeb219413f271::t_c8e170672059ec 1-31
+src/utils/tiff/split.py
+  s_ddeb219413f271::t_c1d1b8b1909bb4 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.4",
+  "base_commit_sha": "39f6a1c333b9b077669f2a80a297105845a2c068",
+  "prompts": {},
+  "sessions": {
+    "s_ddeb219413f271": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f1768-ff7a-7582-8f8d-15cb873e89ee",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    }
+  }
+}
