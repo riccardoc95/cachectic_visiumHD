@@ -1,0 +1,65 @@
+src/spatial_data/qc/plots.py
+  s_ddeb219413f271::t_fdf1516d18e73c 1-179
+src/spatial_data/merge/merge.py
+  s_ddeb219413f271::t_fdf1516d18e73c 4,6,14-15,17,19-20,25-33,36-37,39-41,44-45
+  s_ddeb219413f271::t_b05676a07d4040 16,18,21-24,34-35,38,42-43
+  s_ddeb219413f271::t_1d0ad348a30fc4 1-3,5,7-13
+src/spatial_data/build/builder.py
+  s_ddeb219413f271::t_f2cf23a9378f00 10,126,152-160,219,235
+  s_ddeb219413f271::t_fdf1516d18e73c 1,3-4,18-19,117-125,127-151,161-218,220-234,236-251
+  s_ddeb219413f271::t_1d0ad348a30fc4 2,5-9,11-17,20-116
+src/spatial_data/qc/__init__.py
+  s_ddeb219413f271::t_fdf1516d18e73c 1-6,8-13,16
+  s_ddeb219413f271::t_cb39d0ae5f3641 7,14-15
+src/spatial_data/qc/__main__.py
+  s_ddeb219413f271::t_cb39d0ae5f3641 6,10-20,26-44,71-76
+  s_ddeb219413f271::t_fdf1516d18e73c 1-5,7-9,21-25,45-70,77-84
+src/spatial_data/merge/__init__.py
+  s_ddeb219413f271::t_fdf1516d18e73c 1-3
+src/spatial_data/qc/zarr.py
+  s_ddeb219413f271::t_cb39d0ae5f3641 1-72
+src/tiff/segmentation_new/__main__.py
+  s_6125b4011c8ab7::t_947a5593c019c9 36,87
+  s_6125b4011c8ab7::t_3dff9538f91832 1-4,6-22,24,26,28-29,31-35,37-64,67-82,84-86,89-102
+  s_6125b4011c8ab7::t_f3c334a024d880 5,23,25,27,30,65-66,83,88
+src/spatial_data/build/__init__.py
+  s_ddeb219413f271::t_fdf1516d18e73c 1-3
+src/tiff/segmentation_new/cellpose.py
+  s_6125b4011c8ab7::t_c642d5981bcebf 5,131,189,206-209
+  s_6125b4011c8ab7::t_3dff9538f91832 1-4,6-59,61-62,64,66,70,74,79-81,83-102,104-110,115-130,133-135,138-139,142,150-164,166-175,177,179,181-184,186-188,191-199,202-205,210-242,245-247
+  s_6125b4011c8ab7::t_95bbe47fe6da67 60,63,165
+  s_6125b4011c8ab7::t_bb0626484a4c3c 243
+  s_6125b4011c8ab7::t_babb9cf000edfd 65,67-69,71-73,75-78,82,103,111-114,132,136-137,140-141,143-149,176,178,180,185,190,200-201,244
+src/tiff/segmentation_new/__init__.py
+  s_6125b4011c8ab7::t_3dff9538f91832 1-3
+src/spatial_data/merge/__main__.py
+  s_ddeb219413f271::t_b05676a07d4040 27,30-31
+  s_ddeb219413f271::t_fdf1516d18e73c 1-26,28-29
+src/spatial_data/build/__main__.py
+  s_ddeb219413f271::t_fdf1516d18e73c 1-14,16-29,31-48
+  s_ddeb219413f271::t_de31d1058168b6 15,30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.4",
+  "base_commit_sha": "85186da83530a85c3e4baf4956e6ced6835cf1da",
+  "prompts": {},
+  "sessions": {
+    "s_6125b4011c8ab7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f1764-b70f-7972-9c4e-19232230809f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    },
+    "s_ddeb219413f271": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f1768-ff7a-7582-8f8d-15cb873e89ee",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    }
+  }
+}
