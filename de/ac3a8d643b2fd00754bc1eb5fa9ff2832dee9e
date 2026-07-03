@@ -1,0 +1,54 @@
+README.md
+  s_6eedefd70d7d93::t_a6e33fdcc74049 153
+  s_6eedefd70d7d93::t_de6a2128a2cc2f 92
+  s_6eedefd70d7d93::t_c4acc90b5070d2 91
+  s_6eedefd70d7d93::t_f309a96af712b0 154
+src/geojson_parser.py
+  s_6eedefd70d7d93::t_20e74dc68dfd42 8-13,18-19,21,28,114-124,130,132-134
+src/utils/geojson/__main__.py
+  s_6eedefd70d7d93::t_0e3ad5aec5664a 10,12,17,24-25
+src/spatial_data/build/builder.py
+  s_6eedefd70d7d93::t_97a1e154a7de75 173,184-186,189-190
+  s_6eedefd70d7d93::t_2727a5d1e96a90 8,13,194-212,293-294
+  s_6eedefd70d7d93::t_ac24231ebf74fe 5,12,82-86,244
+  s_6eedefd70d7d93::t_143ec544c4245e 144-146
+  s_6eedefd70d7d93::t_b2fad4a765821d 271-275,285,287,289-292
+  s_6eedefd70d7d93::t_ca521386166c94 10,24,26-27,52-69,72,179,191-193,246-255,257-259,261-263,276,280,296-304,307,327
+  s_6eedefd70d7d93::t_1918cc093597d5 25,89-90,93-122,137-143,147-164,166-172,183,265,295
+  s_6eedefd70d7d93::t_8f045cab475477 342-346
+  s_6eedefd70d7d93::t_266cd302d030ed 73-74
+  s_6eedefd70d7d93::t_a9a35cf92a2d12 3,28-40,46-48,227-241
+  s_6eedefd70d7d93::t_2cc0a4c39fd250 123-134,165
+src/utils/__main__.py
+  s_6eedefd70d7d93::t_329461b7ee1c09 15,17,28,65-66
+src/polygons/polygons.py
+  s_6eedefd70d7d93::t_b61b1099ecff16 2,42-65
+  s_6eedefd70d7d93::t_958aede58bf824 3,9,18-25
+src/cli.py
+  s_6eedefd70d7d93::t_860b97477640e8 275,278-280,294
+  s_6eedefd70d7d93::t_00c73ea175d20e 277
+  s_6eedefd70d7d93::t_127d6cc31983b3 307-312,322
+  s_6eedefd70d7d93::t_230428b64e2818 276
+src/utils/tiff/__main__.py
+  s_6eedefd70d7d93::t_9c654022c7b6b1 12,14,24
+src/utils/tiff/merge.py
+  s_6eedefd70d7d93::t_771b4b7399277b 88-99,124
+TODO.md
+  s_6eedefd70d7d93::t_79b46acecf986d 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "deac3a8d643b2fd00754bc1eb5fa9ff2832dee9e",
+  "prompts": {},
+  "sessions": {
+    "s_6eedefd70d7d93": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f26b6-bd01-7cc2-a7c9-190701a52270",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Riccardo Ceccaroni <riccardo.ceccaroni.95@gmail.com>"
+    }
+  }
+}
